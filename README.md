@@ -26,6 +26,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![InstagramClone](https://user-images.githubusercontent.com/92124196/157776442-4916fb95-673f-4f3e-b9d3-25c32ef04255.gif)
 
 
